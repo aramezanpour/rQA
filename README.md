@@ -1,6 +1,8 @@
 # rQA 
 
-There are two folders:
+There are three folders:
+
+0) samples: This folder contaiins all samples of problems studied.
 
 1) data: This folder contains all the figures and the data files that are used in making the figures.
 
